@@ -1,0 +1,6 @@
+@TestTaskPaymentValid_HostAddress = http://localhost:5094
+
+GET {{TestTaskPaymentValid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

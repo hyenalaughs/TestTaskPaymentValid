@@ -1,0 +1,10 @@
+CREATE TABLE PaymentTransactions (
+    Id UNIQUEIDENTIFIER PRIMARY KEY,
+    Amount DECIMAL(18, 2) NOT NULL,
+    Currency INT NOT NULL,
+    SourceAccount NVARCHAR(100) NOT NULL,
+    DestinationAccount NVARCHAR(100) NOT NULL,
+    Status INT NOT NULL,
+    CreatedAt DATETIME2 NOT NULL DEFAULT SYSUTCDATETIME(),
+    ProcessedAt DATETIME2 NULL
+);

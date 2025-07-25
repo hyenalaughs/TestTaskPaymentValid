@@ -1,0 +1,47 @@
+services:
+  paymentdb:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: paymentdb
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=1mPa55w0rd
+    ports:
+      - "1438:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+    networks:
+      - backend
+
+  logerdb:
+    image: redis:7-alpine
+    container_name: logerdb
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - backend
+
+  payment-api:
+    build:
+      context: .
+      dockerfile: TestTaskPaymentValid/Dockerfile
+    container_name: payment-api
+    ports:
+      - "5015:8080"
+    depends_on:
+      - paymentdb
+      - logerdb
+    environment:
+      - ConnectionStrings__Default=Server=paymentdb;Database=PaymentsDb;User Id=sa;Password=Pa55w0rdForMyDb;TrustServerCertificate=true;
+      - Redis__Host=logerdb
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - backend
+
+volumes:
+  sql_data:
+  redis_data:
+
+networks:
+  backend:

@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "TestTaskPaymentValid.Controllers.PaymentsController",
+    "Method": "CreatePayment",
+    "RelativePath": "api/{controller}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requst",
+        "Type": "TestTaskPaymentValid.Models.PaymentDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "controller",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

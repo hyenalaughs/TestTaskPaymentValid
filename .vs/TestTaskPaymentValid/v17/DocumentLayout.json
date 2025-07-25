@@ -1,0 +1,575 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\application\\services\\paymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\application\\services\\paymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\application\\services\\idempotencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\application\\services\\idempotencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\application\\services\\gatewayrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\application\\services\\gatewayrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\domain\\entities\\paymenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\domain\\entities\\paymenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\domain\\enums\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\domain\\enums\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\domain\\interfaces\\igatewayrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\domain\\interfaces\\igatewayrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\domain\\interfaces\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\domain\\interfaces\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\dal\\core\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\dal\\core\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\dal\\core\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\dal\\core\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\interfaces\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\interfaces\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\services\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\services\\balanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\services\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\services\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\models\\gatewaynotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\models\\gatewaynotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\models\\idempotencykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\models\\idempotencykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\application\\services\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\application\\services\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\domain\\entities\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\domain\\entities\\paymentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\domain\\entities\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\domain\\entities\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\domain\\interfaces\\ipaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\domain\\interfaces\\ipaymentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\dal\\interfaces\\irequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\dal\\interfaces\\irequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\dal\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\dal\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\dal\\repositories\\keyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\dal\\repositories\\keyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\dal\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\dal\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\dal\\interfaces\\ikeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\dal\\interfaces\\ikeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\domain\\interfaces\\iidempotencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\domain\\interfaces\\iidempotencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\infrastructure\\interfaces\\ibalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\infrastructure\\interfaces\\ibalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|c:\\users\\xsrv\\source\\repos\\testtaskpaymentvalid\\testtaskpaymentvalid\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E925FBBA-95F6-4B8D-85F2-DDA0AC400FA5}|TestTaskPaymentValid\\TestTaskPaymentValid.csproj|solutionrelative:testtaskpaymentvalid\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Domain\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Domain\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:43:20.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\IRequestRepository.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\IRequestRepository.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\IRequestRepository.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\IRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T15:13:18.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdempotencyKey.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Models\\IdempotencyKey.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Models\\IdempotencyKey.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Models\\IdempotencyKey.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Models\\IdempotencyKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:40:18.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Core\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\DAL\\Core\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Core\\DbInitializer.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\DAL\\Core\\DbInitializer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:05:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Entities\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Domain\\Entities\\PaymentRequest.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Entities\\PaymentRequest.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Domain\\Entities\\PaymentRequest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:27:03.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Entities\\PaymentTransaction.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Domain\\Entities\\PaymentTransaction.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Entities\\PaymentTransaction.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Domain\\Entities\\PaymentTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:55:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestTaskPaymentValid\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T08:05:21.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:39:59.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\appsettings.json",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\appsettings.json",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\appsettings.json",
+              "RelativeToolTip": "TestTaskPaymentValid\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T07:24:04.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Dockerfile",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Dockerfile",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Dockerfile",
+              "RelativeToolTip": "TestTaskPaymentValid\\Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-08T07:06:12.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Interfaces\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Domain\\Interfaces\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Interfaces\\IPaymentProcessor.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Domain\\Interfaces\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:09:28.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-06T11:25:13.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoggerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\Services\\LoggerProvider.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\Services\\LoggerProvider.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\Services\\LoggerProvider.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\Services\\LoggerProvider.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:24:29.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Program.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Program.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Program.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:55:51.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPaymentGateway.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\Interfaces\\IPaymentGateway.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\Interfaces\\IPaymentGateway.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\Interfaces\\IPaymentGateway.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\Interfaces\\IPaymentGateway.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:06:52.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BalanceService.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\Services\\BalanceService.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\Services\\BalanceService.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\Services\\BalanceService.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\Services\\BalanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:22:03.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBalanceService.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\Interfaces\\IBalanceService.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\Interfaces\\IBalanceService.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\Interfaces\\IBalanceService.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\Interfaces\\IBalanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:21:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:32:47.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\DAL\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\DAL\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T06:46:50.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IKeyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\IKeyRepository.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\IKeyRepository.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\IKeyRepository.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\DAL\\Interfaces\\IKeyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:57:35.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GatewayRouter.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Application\\Services\\GatewayRouter.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Application\\Services\\GatewayRouter.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Application\\Services\\GatewayRouter.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Application\\Services\\GatewayRouter.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:11:14.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGatewayRouter.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Interfaces\\IGatewayRouter.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Domain\\Interfaces\\IGatewayRouter.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Interfaces\\IGatewayRouter.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Domain\\Interfaces\\IGatewayRouter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:11:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Application\\Services\\PaymentValidator.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Application\\Services\\PaymentValidator.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Application\\Services\\PaymentValidator.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Application\\Services\\PaymentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:17:44.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Enums\\Currency.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Domain\\Enums\\Currency.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Enums\\Currency.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Domain\\Enums\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T06:18:03.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPaymentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Interfaces\\IPaymentValidator.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Domain\\Interfaces\\IPaymentValidator.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Interfaces\\IPaymentValidator.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Domain\\Interfaces\\IPaymentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:16:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KeyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Repositories\\KeyRepository.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\DAL\\Repositories\\KeyRepository.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Repositories\\KeyRepository.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\DAL\\Repositories\\KeyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:51:35.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdempotencyService.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Application\\Services\\IdempotencyService.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Application\\Services\\IdempotencyService.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Application\\Services\\IdempotencyService.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Application\\Services\\IdempotencyService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T07:33:30.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IIdempotencyService.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Interfaces\\IIdempotencyService.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Domain\\Interfaces\\IIdempotencyService.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Interfaces\\IIdempotencyService.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Domain\\Interfaces\\IIdempotencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T07:32:58.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Core\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Infrastructure\\DAL\\Core\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Infrastructure\\DAL\\Core\\AppDbContext.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Infrastructure\\DAL\\Core\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:22:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GatewayNotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Models\\GatewayNotificationDto.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Models\\GatewayNotificationDto.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Models\\GatewayNotificationDto.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Models\\GatewayNotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T06:37:43.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Application\\Services\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Application\\Services\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Application\\Services\\PaymentProcessor.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Application\\Services\\PaymentProcessor.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:08:24.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentResult.cs",
+              "DocumentMoniker": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Entities\\PaymentResult.cs",
+              "RelativeDocumentMoniker": "TestTaskPaymentValid\\Domain\\Entities\\PaymentResult.cs",
+              "ToolTip": "C:\\Users\\xsrv\\source\\repos\\TestTaskPaymentValid\\TestTaskPaymentValid\\Domain\\Entities\\PaymentResult.cs",
+              "RelativeToolTip": "TestTaskPaymentValid\\Domain\\Entities\\PaymentResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:31:29.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
